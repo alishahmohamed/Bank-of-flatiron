@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Bank of Bank-of-flatiron
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is a platform for tracking transactions. It allows users to view information about various transactions, including their date, description, category, and amount. Users can browse through the transactions using a table that displays this information and can also add new transactions using a form. The application also includes a search feature that allows users to filter the transactions based on their description. The application is designed to be user-friendly and visually appealing, with styles that enhance the layout and appearance of various elements on the page. Overall, the application aims to provide a convenient and straightforward way for users to track their transactions.
 
-## Available Scripts
+## Running the Live Hosted Application
+Click on this link to run the application: https://bank-of-flatiron-eta.vercel.app/
 
-In the project directory, you can run:
+Upon opening the link, you will be able to view a list of transactions displayed in a table. You can also add new transactions by clicking on the "Add New Transaction" button and filling in the form. The search bar at the top of the page allows you to filter the transactions based on their description.
 
-### `npm start`
+## Cloning the Application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To clone the application, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Open your terminal and navigate to the directory where you want to download the project.
 
-### `npm test`
+Clone the repository by using the following command:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    git clone git@github.com:febiasm/Bank-of-flatiron.git
 
-### `npm run build`
+Change the directory into the project folder by running the command:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    cd Bank-of-flatiron
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Open the project in your preferred code editor using the command:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    code .
 
-### `npm run eject`
+Congratulations, you have successfully cloned the application!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used
+- React
+- JavaScript
+- CSS
+- HTML
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Author
+ This project was contributed by  `ALishah Mohamed`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This project is licensed by `ISC.`
