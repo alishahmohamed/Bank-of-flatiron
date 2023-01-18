@@ -5,7 +5,7 @@ This application is a platform for tracking transactions. It allows users to vie
 ## Running the Live Hosted Application
 Click on this link to run the application: https://bank-of-flatiron-eta.vercel.app/
 
-Upon opening the link, you will be able to view a list of transactions displayed in a table. You can also add new transactions by clicking on the "Add New Transaction" button and filling in the form. The search bar at the top of the page allows you to filter the transactions based on their description.
+Upon opening the link, you will be able to view a list of transactions displayed in a table. You can also add new transactions by clicking on the "Add New Transaction" button and filling in the form. The search bar at tgit he top of the page allows you to filter the transactions based on their description.
 
 ## Cloning the Application
 
