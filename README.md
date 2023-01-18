@@ -15,7 +15,7 @@ Open your terminal and navigate to the directory where you want to download the 
 
 Clone the repository by using the following command:
 
-    git clone git@github.com:febiasm/Bank-of-flatiron.git
+    git clone git@github.com
 
 Change the directory into the project folder by running the command:
 
