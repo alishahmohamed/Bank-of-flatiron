@@ -3,7 +3,7 @@
 This application is a platform for tracking transactions. It allows users to view information about various transactions, including their date, description, category, and amount. Users can browse through the transactions using a table that displays this information and can also add new transactions using a form. The application also includes a search feature that allows users to filter the transactions based on their description. The application is designed to be user-friendly and visually appealing, with styles that enhance the layout and appearance of various elements on the page. Overall, the application aims to provide a convenient and straightforward way for users to track their transactions.
 
 ## Running the Live Hosted Application
-Click on this link to run the application: https://bank-of-flatiron-eta.vercel.app/
+Click on this link to run the application: https://zesty-seahorse-588448.netlify.app/
 
 Upon opening the link, you will be able to view a list of transactions displayed in a table. You can also add new transactions by clicking on the "Add New Transaction" button and filling in the form. The search bar at tgit he top of the page allows you to filter the transactions based on their description.
 
@@ -15,7 +15,7 @@ Open your terminal and navigate to the directory where you want to download the 
 
 Clone the repository by using the following command:
 
-    git clone git@github.com
+    git clone git@github.com:alishahmohamed/Bank-of-flatiron.git
 
 Change the directory into the project folder by running the command:
 
